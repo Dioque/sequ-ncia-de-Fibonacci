@@ -1,1 +1,0 @@
-# sequencia de Fibonacci
